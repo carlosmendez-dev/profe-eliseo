@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.design {
+    font-family: 'Bungee Shade', system-ui;
+  }
+
+.handwritting {
+    font-family: 'Playpen Sans Variable', cursive;
+  }

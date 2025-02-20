@@ -1,0 +1,21 @@
+{
+    "alumnos":[
+        {"nombre":"Pedro","saludo":"Felicidades profe, hoy sí hice la tarea","icon":"https://media.tenor.com/ZAMoMuQgf9UAAAAM/mapache-pedro.gif"},
+        {"nombre":"Carlos","saludo":"Felicidades profe, no me repruebe, podre faltar mucho, pero nunca a su corte de pastel","icon":"https://media4.giphy.com/media/qJzZ4APiDZQuJDY7vh/200w.gif?cid=6c09b952icsq8zippyiz3z3wo083ouwompfc9vk3i03ao1nd&ep=v1_gifs_search&rid=200w.gif&ct=g"},
+        {"nombre":"Leny","saludo":"Felicidades profe, tenga paciencia con nosotros xd","icon":"https://i.pinimg.com/originals/fe/a5/33/fea5336ece9573d235870d51b8d28e7a.gif"},
+        {"nombre":"Joana","saludo":"Muchas felicidades profe, que se la pase muy bien 🥳","icon":"https://media.tenor.com/tedHAl8iBlIAAAAM/bomb.gif"},
+        {"nombre":"Josmar","saludo":"¡Feliz cumpleaños profe 🥳! Que tenga muchos años más pero menos clases a las 7 am AJJSJA, que la pase de lo mejor en su día 🗣️‼️","icon":"https://media.tenor.com/4zNJ402gqIoAAAAM/cold-dog.gif"},
+        {"nombre":"Kevin","saludo":"Felicidades profe no me repruebe, aún no renderizo mi proyecto","icon":"https://www.gifcen.com/wp-content/uploads/2022/02/dancing-dog-gif-3.gif"},
+        {"nombre":"Gael","saludo":"Felicidades profe un remedial más","icon":"https://i.imgur.com/Nh6um.gif"},
+        {"nombre":"Reily","saludo":"Felicidades profe está vez si haré mis tareas","icon":"https://media.tenor.com/DtoMFxY358IAAAAM/cry-little-boy.gif"},
+        {"nombre":"Sam","saludo":"Feliz cumple, Profe!, ¡Que su día tenga un 'render' perfecto!","icon":"https://media.tenor.com/62IP4P-358cAAAAM/unity-unreal-engine.gif"},
+        {"nombre":"Manuel Yah","saludo":"felicidades profe","icon":"https://media.tenor.com/puMjIn_lRHsAAAAM/meme.gif"},
+        {"nombre":"Manuel","saludo":"Felicidades profe tenga piedad de nosotros","icon":"https://media.tenor.com/ackA8bq49x4AAAAM/cachorro-frio-frio.gif"},
+        {"nombre":"Galaz","saludo":"Felicidades profe, repruebe a sogbi","icon":"https://i.gifer.com/origin/7b/7b544c78704a6da9c6e70562dc3fbf9e_w200.gif"},
+        {"nombre":"Gustavo","saludo":"Un cafe ya no es suficiente profe, necesito masticar un cable electrico, Feliz cumple!","icon":"https://media.tenor.com/H38b9OsN9nsAAAAM/chickenjoe-surfsup.gif"},
+        {"nombre":"Guadalupe","saludo":"felis cumpleaños","icon":"https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"},
+        {"nombre":"Arturo","saludo":"Felicidades Mrs. Profe","icon":"https://media.tenor.com/nZsn90X3OpYAAAAM/baby-cat-dancing-png.gif"},
+        {"nombre":"Angel","saludo":"Feliz cumpleaños, que la salud y los viajes descubriendo Yucatán sigan inspirando su mundo digital.","icon":"https://media.tenor.com/x4wIQT5Bp8IAAAAM/the-backyardigans-pablo-vampire-dance.gif"},
+        {"nombre":"Mairim","saludo":"¡Muchas felicidades, Profe! Que tenga muy lindo día","icon":"https://media.tenor.com/6yMqezH9zcIAAAAM/cat-dance-dance-cat.gif"}
+    ]
+}
